@@ -1,44 +1,23 @@
-# Anon - An eCommerce Website
+# E-commerce Web Shop 🛒
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+A simple e-commerce website built using **HTML, CSS, and JavaScript**. This project provides a user-friendly shopping experience with an interactive UI.
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+## 🌟 Features
+- 📦 Product listings with images and descriptions  
+- 🛍️ Add to cart functionality  
+- 💰 Price calculation and checkout simulation  
+- 🔍 Responsive design for mobile and desktop  
+- 🎨 Styled using CSS for an elegant look  
 
-## Demo
+## 🚀 Live Demo
+[![E-commerce Web Shop](#)
+](https://sujalverma7557.github.io/E-commerce-web-shop/)
+## 🛠️ Technologies Used
+- **HTML** - Structure of the website  
+- **CSS** - Styling and layout  
+- **JavaScript** - Interactive functionality  
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing Anon
-
-To install **Anon**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+## 📌 Setup Instructions
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/sujalverma7557/E-commerce-web-shop.git
